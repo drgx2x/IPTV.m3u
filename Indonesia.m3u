@@ -39,8 +39,8 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1,MotoGp
 https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="BiznetAdventure.id" status="online",Biznet Adventure (720p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkey
 
 
 
