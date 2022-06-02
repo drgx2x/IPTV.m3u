@@ -24,7 +24,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,IDXTv
 https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/idxchannel.m3u8
 #EXTINF:-1,NusantaraTv
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1,RedbullTV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,NHK
