@@ -1,0 +1,47 @@
+﻿#EXTM3U
+#EXTINF:-1,TransTv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w235013315_b344100_sleng.m3u8
+#EXTINF:-1,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,Tv9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1,TVRI nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1,TVRI JawaTimur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1,CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,CNBCid
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1,BeritaSatu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1,KompasTV
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+#EXTINF:-1,Metrotv
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,IDXTv
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/idxchannel.m3u8
+#EXTINF:-1,NusantaraTv
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1,RedbullTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,NHK
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1,CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1,CNNUS
+http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
+#EXTINF:-1,CloudflareTV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1,MotoGp
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
+
+
+
+
+
+
+
+
