@@ -20,7 +20,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 #EXTINF:-1,CNBCid
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1,NBCTV
-https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1654883178~acl=%2f*~data=hdntl~hmac=4a84c45dacfedeca6725f7b23e7ea61bec98ce402a9d3b299b56b56f51922728/VIDEO_1_4596000.m3u8
+https://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8ce402a9d3b299b56b56f51922728/VIDEO_1_4596000.m3u8
 #EXTINF:-1,BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1,BeritaSatu World
